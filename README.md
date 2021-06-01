@@ -8,7 +8,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning frontEnd with Vue.js and JavaScript Programming
 
 Find me in:
-<a href="https://youtube.com/c/DevSoutinho" rel="nofollow"><img src="https://camo.githubusercontent.com/e154beb0e09d9383a1a2e2abf56d2ef123574d58a8e767075753ca95331b7567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f796f75747562652e636f6d2f632f446576536f7574696e686f" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://youtube.com/c/DevSoutinho" style="max-width:100%;"></a>
+<br>
+ <a href="https://www.linkedin.com/in/edurojas-developer/" rel="nofollow"><img    src="https://camo.githubusercontent.com/0a994edb1fe71b363cef6a482189b23e1ae23a866c514a50a68f9482abdf52ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6f6d6172696f736f75746f"
+alt="Linkedin Badge"
+data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/edurojas-developer/"
+            style="max-width:100%;"></a>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
