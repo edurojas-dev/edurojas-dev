@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://www.instagram.com/qoad.innovation/">Qoad Innovation</a>
+- 🔭 I’m currently working on freelancer web developer
 - 🌱 I’m currently learning frontEnd with Vue.js and JavaScript Programming
 
 Find me in:
